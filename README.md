@@ -6,7 +6,7 @@ A Python automation tool that cleans and prepares Excel data by removing empty r
 This script reads an Excel file, removes unnecessary or messy data, and saves a cleaned version automatically. It recuces manual work and improves data quality.
 
 **Features:**
-* Teads Excel files automatically
+* Reads Excel files automatically
 * Removes completely empty rows
 * Removes duplicate records
 * Option to remove rows with missing important data (e.g., Email)
